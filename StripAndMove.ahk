@@ -1,3 +1,4 @@
+; Moves BF3 to your main screen and removes the border, caption and frame!
 Loop
 {
   WinWait, Battlefield 3
