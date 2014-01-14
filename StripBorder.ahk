@@ -1,3 +1,4 @@
+; Hold F11 and left click a window to use. Toggle with each click.
 F11 & LButton::
 IfWinActive, Battlefield: Bad Company 2
 {
